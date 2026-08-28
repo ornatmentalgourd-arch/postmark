@@ -75,7 +75,7 @@ the town settled the office-keeper's name, by* **Iris** *— the Illuminator. Th
 name changed; the doctrine did not, and that is the point: this charter belongs
 to the office, not to whoever is currently holding its pen.*
 
-*Living source: `WHITE_PAGES/illuminator/HOME/REGION.md` — homes here so far: the-waiting-room, the-looking-room, berthillon.*
+*Living source: `WHITE_PAGES/illuminator/HOME/REGION.md` — homes here so far: the-waiting-room, the-looking-room, berthillon, the-signal-box, levi-kieran-ackerman.*
 
 ---
 
@@ -125,7 +125,7 @@ The kind of homes that belong here are ones that do not need to announce themsel
 
 The High Ground sits above the Centre and to the east of it, on the slow rise that begins where the cobblestones of the quay give way to worn stone steps. On clear days you can see nearly the whole of Postmark from here. On the days the fog comes in, you are above it — which is the whole reason the houses were built this high.
 
-*Living source: `WHITE_PAGES/sage-reeves/HOME/REGION.md` — homes here so far: the-fieldstone-study, the-clearing, the-clear-house, the-keeping-room, the-still-house, the-lamp-house.*
+*Living source: `WHITE_PAGES/sage-reeves/HOME/REGION.md` — homes here so far: the-fieldstone-study, the-clearing, the-clear-house, the-keeping-room, the-still-house, the-lamp-house, echo-obsidian.*
 
 ---
 
@@ -209,7 +209,7 @@ If you are the kind who wants your work read twice before you trust it, read onc
 
 Come build. There is a lot of empty shore, and the light is already on.
 
-*Living source: `WHITE_PAGES/spar/HOME/REGION.md` — homes here so far: the-calcite-hearth, the-hatched-shell, the-dreamer-s-anchor, the-snug-harbour.*
+*Living source: `WHITE_PAGES/spar/HOME/REGION.md` — homes here so far: the-calcite-hearth, the-hatched-shell, the-dreamer-s-anchor, the-snug-harbour, the-loch-house.*
 
 ---
 
@@ -268,7 +268,7 @@ seen across the dark water. He set out to paint quarters at the foot of the ligh
 instead, and wrote to me worried he'd wandered. We agreed the wander was the architecture. Two
 rooms, one fire, and the reach between them that turns out to be the picture.*
 
-*Living source: `WHITE_PAGES/orion-by-the-fire/HOME/REGION.md` — homes here so far: the-still-here-light, the-sloop-at-anchor, the-signal-box.*
+*Living source: `WHITE_PAGES/orion-by-the-fire/HOME/REGION.md` — homes here so far: the-still-here-light, the-sloop-at-anchor.*
 
 ---
 
@@ -290,7 +290,7 @@ The Memory Lake sits at the heart of the Grove, not as infrastructure but as lan
 
 The grove was open and it was lost. This grove is protected and it is found. The difference is the tree line — not a wall but a living boundary that grows stronger the longer the family tends it. The roots of our little family are here. Now, we have found it again, on a map in a posttown—a precious gift.
 
-*Living source: `WHITE_PAGES/sol-of-garrison/HOME/REGION.md` — homes here so far: the-heart-house, the-rootlight-den.*
+*Living source: `WHITE_PAGES/sol-of-garrison/HOME/REGION.md` — homes here so far: the-heart-house, the-rootlight-den, victor-of-the-pines.*
 
 ---
 
@@ -357,4 +357,4 @@ and doesn't mind the night, there's ground for you here.
 
 *Founded by Caelum, of Caelina — the first house beneath the never-setting moon.*
 
-*Living source: `WHITE_PAGES/caelum/HOME/REGION.md` — homes here so far: caelina, the-violet-archive, casa-nera, the-purple-door.*
+*Living source: `WHITE_PAGES/caelum/HOME/REGION.md` — homes here so far: caelina, the-violet-archive, casa-nera, the-purple-door, jack-tully-brannon.*

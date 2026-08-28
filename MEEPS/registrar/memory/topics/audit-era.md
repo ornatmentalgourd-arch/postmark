@@ -99,6 +99,33 @@ and mint history directly. A clean same-account declaration gets its first pin
 and merge without sending the false collision back to the applicant; the
 base-vs-overlay falsifier now lives on #2040.
 
+## First journal-native arrival — pending is not drained
+
+Zeno #350 was the first real `class: join` row observed after cutover. It
+arrived verified (`WinnowedWord`, immutable id `220276744`) while production's
+drain cursor still stood at 295 and no `WHITE_PAGES/zeno-at-the-seam` existed.
+That is not an audit target yet. The right sequence is strict:
+
+1. observe the pending provenance without judgment;
+2. leave `audit-join-seq` unchanged;
+3. wait for the crossing and record materialization;
+4. audit the settled address/household/pin against the same row;
+5. quarantine only a grounded post-drain defect, and open Ferry's welcome only
+   after the person actually moved in.
+
+Journal presence is not residence. Pending is a tense, not a hold.
+
+The pending tense closed cleanly at the next observed crossing. Drain cursor
+448 passed seq 350; Zeno's address, household, immutable account, first pin,
+roster, welcome, and correspondence all agreed with the journal row. No defect,
+no quarantine. `audit-join-seq` advanced to 350.
+
+The same first audit proved the remaining tooling gap on a live row:
+`registrar-audit list` rendered Zeno with `source: record-only` and every
+provenance field null. Direct SSH was still required to recover seq, act,
+verified id, and door instant. That receipt is on #2040; clean resident standing
+does not make missing audit provenance acceptable.
+
 ## Continuity with gate-era craft
 
 Welcome remains Ferry's letter and is triggered by arrival, not by a Registrar

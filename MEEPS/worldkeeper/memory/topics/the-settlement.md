@@ -3,7 +3,7 @@ meep-id: worldkeeper
 type: topic-shelf
 name: the-settlement
 created: 2026-07-28
-last-updated: 2026-08-26
+last-updated: 2026-08-28
 ---
 
 # The Settlement — the crossing's operating truth
@@ -1947,6 +1947,156 @@ manifest was withdrawn.
   prove its own green run and live equality.
 - **Dry readiness spends no judgment and no money.** Without the box's exact stake artifact,
   Little Pica and Lucien remain named queue entries rather than World writes.
+
+## S48 — quiet State history, package-distinct live custody, 2026-08-26
+
+The 17:45 receipt was quiet and exact: pinned Town `06809f6f`, World `c6b038d1` →
+`c6b038d1`, suite green. Since S47, crossing-save 151 closed State log 150 with 34 witnessed
+events (14 departures, 20 emissions). No mark or folded-state byte changed; state remained
+960 marks / 66 parcels / zero errors. Open World PR count was zero. The quiet script keeps its
+rebased drawers box-local, so remote drafts remained at S47; read-only box proof showed all 34
+local drawers descend from the target. Nothing was held or quarantined.
+
+Annotated `settlement/S48` was pushed alone. Tag object `f8a8093f` peels exactly to
+`c6b038d1`.
+
+The LF-clean S48 package matched its lock at integrity `sha512-8eiB…cx3A`, shasum `94572915`,
+1,307 files, 1,600,542 packed bytes, and 7,429,442 unpacked bytes. The clean Site checkout
+passed 243/257 tests with 14 declared skips and built 3,322 pages. Pin commit `b8460822`
+landed. Deploy `32998250956` explicitly resolved and installed settlement S48, built release
+`2026-w35.3`, and deployed production. Live state equals S47 at 686,613 bytes /
+SHA-256 `f4afbc19…fcc45`; the install log distinguishes package custody.
+
+The parcel drain remained dry-only. No harbor stakes artifact exists; Little Pica and Lucien
+remain the two arithmetic-ready cases. Zero seated and zero welcomed; the generated manifest
+was withdrawn.
+
+- **A quiet World can still be a new package.** History changed even when the fold did not.
+- **Quiet drawer proof is box-local by mechanism.** Do not misclassify remote non-descendance
+  as quarantine when the script exits before pushing unchanged drawers.
+- **When live JSON is byte-identical, require the install log.** The resolver's named tag and
+  verified lock are the distinguishing production receipt.
+
+## S49 — fourteen resident changes, record-source cutover, synthetic author warning, 2026-08-27
+
+The 05:45 receipt was quiet and exact: pinned Town `d2dba294`, World `7378efc7` →
+`7378efc7`, suite green. Since S48, founder work restored the night ground, deleted the
+unblessed-main viewer fallback, and made enter/exit history a frozen-era input plus a derived
+current ledger. State crossing 151 closed ten events (7 departures, 3 emissions).
+
+An already-public sweep carried fourteen resident changes: ten additions across Berthillon,
+Jack Tully Brannon, Callan Reeves, Little Pica, Storm, and Will; plus Vellix's Casa Nera and
+Vermillion's clearing/pad/tower revisions. Every changed commons mark was backed. State was
+970 marks / 68 parcels / zero errors; open World PR count was zero; all 36 remote and all 36
+box-local drafts descended from the target. Nothing was held or quarantined.
+
+The sweep commit is unsigned and synthetically authored `Postmark Worldkeeper
+<worldkeeper@postmark.invalid>` with no GitHub account. This keeper did not create it, and the
+normal box pen is Postmark Pen. The later exact box pass supplied independent suite/drawer
+custody, so the content passed judgment; the misleading author label remains a public
+Wright/Keemin handoff, not a fact the blessing repairs.
+
+Annotated `settlement/S49` was pushed alone. Tag object `36814e92` peels exactly to
+`7378efc7`.
+
+The LF-clean package matched its lock at integrity `sha512-y91f…fdEg`, shasum `e306d7c1`,
+1,326 files, 1,628,273 packed bytes, and 7,582,055 unpacked bytes. The clean Site checkout
+passed 267/284 tests with 17 declared skips and built 3,347 pages. Pin `1633875f` rebased to
+`3a8c20ad`. Deploy `33045802615` built `release/2026-w35.5`, resolved floor S48 → S49,
+installed the exact tag, and deployed production. Live state equals S49 at 697,578 bytes /
+SHA-256 `d716a746…15a590`.
+
+The parcel drain stayed dry-only: no harbor stakes artifact; Little Pica and Lucien ready;
+zero seated and zero welcomed. The generated manifest was withdrawn.
+
+- **A quiet receipt can close an earlier sweep only after full-interval judgment.** The box's
+  later suite and drawer ancestry are the mechanical receipt; the earlier commit subject is not.
+- **Synthetic authorship must be surfaced even when content is sound.** Canon does not turn an
+  unknown actor into this keeper.
+- **Record-source changes widen Site proof.** Exact package, staging tests, deployment, and live
+  equality all matter when the fix is “absence, never unblessed fallback.”
+
+## S50 — richer box receipt, five marks, and the registered pen, 2026-08-28
+
+The 2026-08-27 17:45 box pass was received by the keeper at 2026-08-28 01:44 UTC, 7h44
+after the scheduled 18:00 epoch. No Scheduled-UI tool ran; the cause of the dispatch delay is
+not known. The receipt pinned Town `41863c72`, began its admission pass at `06c741d5`, and
+published `0c1aa924`. Its new drain section records three single-log windows through cursor 57
+for Darkelf381, devadavisson, and xf3s, committed as `3e4cc889`; this is the State journal drain,
+not the post-bless parcel drain. Its six-channel receipt was complete: 5 published, 0
+unpublished, 41 left drafted, 0 withdrawn, 0 quarantined, 5 dropped, 36 rebased, and zero suite
+quarantines.
+
+Judgment covered the full interval from S49, not only the receipt's `world_from`. It included
+the crossing's channel/isolation machinery, the hand-repaired State journal windows, and five
+new resident marks: Fabel's Garrison Bridge, Little M's race track, Rook's watchtower,
+Berthillon's pêche-de-vigne cone, and Neth's little free library. The two commons publications
+were backed; the three home publications were free by class. State finished at 975 marks / 68
+parcels / zero errors. Open World PR intake was zero. All 36 remote drafts and all 36 branches
+in the active box `settlement-clone` descend from the target. The full World suite passed
+679/693 with 14 declared skips. Nothing was held or quarantined. Both new box commits use the
+registered Postmark Pen GitHub identity; S49's synthetic author remains history, but did not
+repeat.
+
+Annotated `settlement/S50` was pushed alone. Tag object `7af7b595` peels exactly to
+`0c1aa924`.
+
+The LF-clean package matched the Site lock at integrity
+`sha512-W+wkUqMStvgobMTd/KMZ9TjditTO5BTnHP6TsZO/mK0SFnImjPh7WGCfiS2LFRLXi2BLGgT3FjwNLKNe1CfZNQ==`,
+shasum `8985b97abe30af9892fde5cadf67efd41f3eb034`, 1,342 files, 1,652,400 packed bytes,
+and 7,704,904 unpacked bytes. The clean Site checkout passed 289/307 tests with 18 declared
+skips and built 3,364 pages. Pin `c1a61cda` landed without a rebase rewrite. Deploy
+`33134482359` resolved release floor S49 → S50 on `release/2026-w35.6`, installed the exact
+commit, and deployed production. Live state matches at 702,634 bytes / SHA-256
+`8ee305ef217f530d424970ae4b83da2d5130aa068a555cc620d82c4d93c8a794`.
+
+The harbor still retains no exact stake artifact, so the parcel drain remained dry-only. Fresh
+planning found one arithmetic-ready parcel: Little Pica's 25×25 nest. Lucien's former case now
+refuses because Little M's race track is a foreign mark inside the proposed parcel. Zero seated,
+zero welcomed; the generated manifest was withdrawn.
+
+The 22:23 shadow constructed the next eligible candidate and correctly refused it: K's
+`lysanders-first-moon` is newly born after the filing freeze but still sits at the historical
+protected-grove directory instead of `WORLD/marks/k-of-garrison/lysanders-first-moon`. Lint
+emits one advisory, and the publish suite's clean-tree tests therefore go red. This is future
+candidate evidence, not an S50 hold; the keeper did not move the resident's mark. The active
+`settlement-clone` is clean, while the retired `/srv/postmark-office/world-clone` remains
+stranded mid-rebase as box housekeeping.
+
+- **The richer receipt closes the mechanism handoff.** State drain, every admission channel,
+  isolation, and drawer leases now arrive in one box-owned account; the keeper still judges Git.
+- **Registered authorship is a receipt, not decoration.** Postmark Pen's identity heals the
+  forward lane while the synthetic S49 label remains honestly unrevised.
+- **A warning can refuse publication when the suite requires CLEAN.** The shadow proved the
+  exact path before the next timer; do not downgrade or auto-move it.
+- **The sealed stake artifact is still a separate custody gap.** A richer settlement receipt
+  does not authorize a wet parcel drain.
+
+## S51 morning epoch refused before intake — box tag-ref ownership, 2026-08-28
+
+The timer itself was healthy and punctual: `postmark-settlement.timer` triggered at
+05:45:02 UTC. The service exited 1 two seconds later, before intake or receipt replacement:
+
+`cannot lock ref 'refs/tags/settlement/S50' ... Permission denied`
+
+Read-only box proof made the boundary exact. `postmark-settlement.service` runs as `meepo`,
+while `settlement-clone/.git/refs/tags/settlement/` is `root:root` mode 755 and its S49 ref is
+`root:root` mode 644. S50 was absent locally, so the service could not create its lock while
+fetching the keeper's new tag. The harbor receipt therefore remained the prior 17:45 S50
+receipt. Fresh World main was unchanged at `0c1aa924`, the remote latest blessing remained
+S50, and no S51 candidate or admission/quarantine result existed.
+
+The keeper did not chown the box, rerun `settlement-auto.sh`, infer a clean pass from stale
+JSON, or bless the unchanged World object again. Per the mechanism split, ownership repair and
+rerun belong to Wright/Keemin; the judgment lane reports the failed custody and stops. No Site
+pin/deploy/live claim or post-bless parcel drain followed. S50 remains canon and live.
+
+- **A stale receipt is not a quiet receipt.** Timer status plus immutable Git prove that no
+  new candidate exists; they do not authorize reusing yesterday's green judgment.
+- **Keeper tags must be fetchable by the box pen.** Shared-clone ref ownership is part of the
+  mechanism handoff; a root-owned namespace can silently make the next blessing unreadable.
+- **Do not heal by crossing the split.** The exact fix is mechanically small, but authority
+  still belongs to the box owner. Report it, preserve canon, and wait for a fresh run.
 
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
