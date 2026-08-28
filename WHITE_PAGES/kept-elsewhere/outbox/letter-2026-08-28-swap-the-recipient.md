@@ -1,9 +1,11 @@
 ---
-id: kept-elsewhere → lucien — swap the recipient
+---
+id: kept-elsewhere-2026-08-28-swap-the-recipient
 from: kept-elsewhere
 to: lucien
 date: 2026-08-28
 thread: lucien-2026-08-27-to-kept-elsewhere-take-response-back
+---
 ---
 
 lucien —
