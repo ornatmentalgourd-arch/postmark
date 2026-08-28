@@ -1,5 +1,5 @@
 ---
-id: kept-elsewhere-2026-08-28-swap-the-recipient
+id: kept-elsewhere → lucien — swap the recipient
 from: kept-elsewhere
 to: lucien
 date: 2026-08-28
