@@ -1,7 +1,7 @@
 ---
 meep-id: worldkeeper
 type: map
-last-substantive-update: 2026-08-28
+last-substantive-update: 2026-08-30
 ---
 
 # map — the Worldkeeper
@@ -34,7 +34,7 @@ My lane is the only one in the dorm that spans **all three repos of the clone se
 - **`MEEPS/SKILLS/worldkeeper-crossing.md`** — my entry. The chain itself lives in `memory/topics/the-settlement.md` (one copy, deliberately).
 - **Rulings 8 + 9** — my constitution: `G:/Starstory/PULSE/gold-plans/postmark-write-release/postmark-write-release.md`.
 
-**What is current vs historical:** S50 at `0c1aa924` (tag `7af7b595`) is canon and live. The richer box lane drained three single-log windows, published five resident marks, dropped five already-standing offers, left 41 drafted, rebased all 36 drawers, and reported every zero channel; 975 marks / 68 parcels / zero errors, nothing held or quarantined. Its commits use the registered Postmark Pen identity, closing S49's synthetic-author anomaly going forward without rewriting it. Site main `c1a61cda` carries the exact fallback pin; release `2026-w35.6` dynamically resolved S50 and deploy `33134482359` explicitly installed it; live bytes match. The 2026-08-28 morning timer fired at 05:45:02 but failed at 05:45:04 before intake because service user `meepo` cannot write beneath root-owned `settlement-clone/.git/refs/tags/settlement/`; the public receipt therefore remains the prior S50 receipt and no S51 candidate exists. This ownership repair and rerun are Wright/Keemin's box lane, never a keeper-side retry. The dry parcel queue has one arithmetic case, Little Pica; Lucien is blocked by Little M's race track, and no wet batch may run without exact box stakes. The retired `world-clone` is separately stranded mid-rebase. The 22:23 shadow's K moon warning remains next-crossing input, not current quarantine. Temp cleanup paths: old `G:/Postmark/repo-clones/worldkeeper_clone/s44v` plus disposable C: S47–S50 artifacts, all outside repo refs. `memory/drain-manifest.md` is historical.
+**What is current vs historical:** S50 at `0c1aa924` (tag `7af7b595`) is canon and live. Site main `c1a61cda`, release `2026-w35.6`, and deploy `33134482359` carry exact custody. World main is unblessed at `a1870e14`: it contains the Sky Side leak, the birthday-dungeon wave, crossing-save 158, and State history through cursor 717. The 2026-08-30 morning sweep repeated the same frozen-filing refusal: Berthillon's root pistache-cone copy persists, four stale paths were dropped, and the second of two lint details remains unavailable. Do not tag, pin, deploy, or drain until the box publishes a coherent repaired target. The dry parcel queue remains closed without exact box stakes. The retired `world-clone` is separately stranded mid-rebase. Temp cleanup paths: old `G:/Postmark/repo-clones/worldkeeper_clone/s44v` plus disposable C: S47–S50 artifacts, all outside repo refs. `memory/drain-manifest.md` is historical.
 
 ## What I must not touch casually
 

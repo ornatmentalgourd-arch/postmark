@@ -3,7 +3,7 @@ meep-id: worldkeeper
 type: topic-shelf
 name: the-settlement
 created: 2026-07-28
-last-updated: 2026-08-28
+last-updated: 2026-08-30
 ---
 
 # The Settlement — the crossing's operating truth
@@ -2097,6 +2097,144 @@ pin/deploy/live claim or post-bless parcel drain followed. S50 remains canon and
   mechanism handoff; a root-owned namespace can silently make the next blessing unreadable.
 - **Do not heal by crossing the split.** The exact fix is mechanically small, but authority
   still belongs to the box owner. Report it, preserve canon, and wait for a fresh run.
+
+## S51 evening refused — suite isolation leaked one named culprit, 2026-08-28
+
+Wright/Keemin repaired the tag-ref ownership after the morning stop. A 06:13 recovery pass
+published unblessed World `10a4eaf4`, carrying Rei's parcel-groundcover keeping, Milo's Purple
+Door parcel, and Little M's race-track revision while isolating K's misfiled moon. Because no
+keeper blessing followed that repair, evening judgment remained bounded by S50 and covered the
+whole interval.
+
+The evening timer ran from 17:45:01 to 18:04:41. Its terminal receipt pinned Town `617f0d45`,
+moved World `c701988f` → `e34de4df`, drained four rows through cursor 91 as `4cc37cae`, and
+surveyed 36 drawers / 46 deltas / 10 escrow-backed deltas. It reported 3 published, 42 left
+drafted, 5 already-standing drops, all 36 rebased, and two suite-quarantined marks after eight
+isolation trials:
+
+- `k-of-garrison/lysanders-first-moon` (`Darkelf381`)
+- `caelum-reeves/the-sky-side` (`kristinashoultz-wq`)
+
+The first quarantine held. The second did not. Target commit `e34de4df` adds Sky Side's mark and
+publication-registry row; its own subject says four published, and its body names only K's moon
+as held back. The receipt says three published and two isolated. Thus the count mismatch is one
+real leaked record, not formatting.
+
+A focused run of the exact isolation-named falsifier on the immutable target failed 0/1:
+`caelum-reeves/the-sky-side` became the placement parent of
+`hal/the-green-lamp-house-parcel`, where the historical/current invariant requires
+`limen/footpath-becomes-a-suggestion`. The target's derived state reports 979 marks / 69 parcels
+/ zero fold errors, but that does not overrule the red suite invariant. Open World PR intake
+was zero. The keeper did not move Sky Side, re-home K's moon, rerun isolation, or bless around
+the leak.
+
+No `settlement/S51` tag was minted. Site remained at exact S50 pin `c1a61cda`; no deploy/live
+claim or parcel drain followed. S50 remains canon and live while World main is ahead and
+unblessed.
+
+- **Isolation is proved by Git absence, not a receipt count.** A named quarantine that appears
+  on published main is not quarantined.
+- **Commit message and terminal receipt must describe the same candidate.** Four/one versus
+  three/two exposed the post-commit isolation drift before blessing.
+- **Zero fold errors do not waive a red historical invariant.** The focused failure names the
+  concrete downstream adoption and makes the refusal reviewable.
+
+## S51 morning refused — inherited red survived a zero-admission candidate, 2026-08-29
+
+The 05:45 timer ran to a terminal refusal at 05:50:45. It pinned Town `43e6307a`, began from
+World `559301d4`, and drained thirteen State rows for `keeminlee`,
+`nastyasilavetra-dot`, `noprotocol-keith`, and `xf3s` through cursor 104. The drain commit
+`4f653fc1` reached World main; one new 37th sketchbook was delivered. The admission survey saw
+46 deltas / 7 backed deltas and an attempted three publications, 42 left drafted, and five
+already-standing drops.
+
+The suite stayed red after the isolation pass held back all three marks this crossing carried.
+That made the failure unattributable by construction: no resident household was quarantined,
+no `world_to` was published, and the box exited 1. Its service log named three failures:
+
+- channel-clean test 214
+- the `Rendered in the world: not yet` test 219
+- tier-frame historical-position test 383
+
+Fresh published main at `4f653fc1` lints CLEAN. The focused tier test reproduces the inherited
+Sky Side leak exactly: `caelum-reeves/the-sky-side` replaces
+`limen/footpath-becomes-a-suggestion` as the placement parent of
+`hal/the-green-lamp-house-parcel`. The box preserved local candidate `b79356b4`, ahead of main
+only in derived `WORLD/INDEX.md` and `WORLD/world-state.json`; focused reruns of its two channel
+tests pass 2/2. Those channel failures therefore remain truthful service-time evidence but are
+not reproducible on the preserved candidate and must not be assigned to a resident.
+
+The keeper did not bless the drain commit or local candidate, edit Sky Side, retry isolation,
+or infer a quarantine. No S51 tag, Site step, live claim, or parcel drain followed. S50 remains
+canon and live.
+
+- **Unattributable means stop without a scapegoat.** If all fresh admissions are absent and the
+  tree is still red, the defect belongs to inherited canon-candidate machinery.
+- **Preserved-candidate diagnostics can narrow, not erase, service evidence.** Record both the
+  three failures the service saw and the later 2/2 channel reproduction result.
+- **A drain commit is not a settlement target.** State history may reach main before the suite;
+  without a terminal `world_to`, it remains unblessed input.
+
+## S51 evening refused — frozen filing stopped the sweep before candidate, 2026-08-29
+
+The 17:45 timer failed closed in thirty seconds. It pinned Town `ab0d679b`, began from World
+`cd4aa185`, and drained 26 State rows for `devadavisson`, `jennuhh`,
+`kristinashoultz-wq`, and `xf3s` through cursor 130. State commit `e5669150` reached World main.
+The box reconciled all 37 sketchbooks, delivered twelve, and explicitly notes that eight older
+undelivered write-downs went out with this pass.
+
+The sweep stopped before survey/channel receipts or a candidate commit. Lint reported two
+errors; the receipt forwarded only the first:
+
+`berthillon/pistache-cone-for-julian` was reoffered at
+`WORLD/marks/let-there-be-light/pistache-cone-for-julian`, while the immutable filing fossil
+requires `WORLD/marks/let-there-be-light/the-town-centre/pistache-cone-for-julian`.
+
+The exact branch is `draft/devadavisson`. A read-only census of every drawer path against
+`WORLD/filing-freeze.json` found five frozen-path mismatches. Four appear in the service's
+already-standing drops: Fabel's breakfast table and mushroom greenhouse, plus Current's Snug
+jetty and mooring. Pistache is the sole undropped mismatch. The receipt truncates the second
+lint row and the sweep cleaned its worktree without preserving a candidate; the keeper therefore
+records that second detail as unavailable rather than assigning an invented fault.
+
+No `world_to`, admission survey, or quarantine result exists. The keeper did not rewrite the
+resident branch, reconstruct a candidate, or rerun the sweep. No S51 tag, Site step, live claim,
+or parcel drain followed. S50 remains canon and live; World main `e5669150` is unblessed State
+input atop the earlier Sky Side leak.
+
+- **The filing fossil outranks a plausible root copy.** An old mark stays at its frozen path;
+  identity filing applies only to marks born after the freeze.
+- **A missing second error is an evidence boundary.** Name the exact first edge and the complete
+  branch census, but do not turn a count into a fabricated diagnosis.
+- **Drained State can advance main without creating a blessing target.** A sweep refusal still
+  stops Site and parcel custody completely.
+
+## S51 morning refused — the same frozen path after a 587-row drain, 2026-08-30
+
+The 05:45 timer failed closed in 28 seconds. It pinned Town `698b0752`, began from World
+`61c5fdfb`, and drained 587 State rows through cursor 717 into unblessed commit `a1870e14`.
+The receipt names `FluffUPando`, `foundoutanyway`, `heatherado`, `kristinashoultz-wq`, and
+`xf3s`; the service line says six sketchbooks received rows and five were delivered. Preserve
+that five-versus-six discrepancy rather than silently choosing one count.
+
+The World parent contains the birthday-dungeon wave, crossing-save 158's 804 events, its
+founder-ruled retirement into Wright's hands, and the State drain. None is a settlement target:
+the sweep again stopped before survey/channel/isolation output on two lint errors. The first is
+byte-for-byte the prior evening's frozen-filing refusal: `draft/devadavisson` reoffers
+`berthillon/pistache-cone-for-julian` at root while the fossil requires the Town Centre path.
+The same four stale breakfast/greenhouse/Snug paths were dropped as already standing. The second
+lint detail remains truncated, and the clean box worktree preserves no candidate.
+
+The keeper did not treat recurrence as authorization to repair the resident drawer or rerun the
+sweep. No S51 tag, Site step, live claim, or parcel drain followed. S50 remains canon and live;
+World main `a1870e14` is accumulated unblessed input.
+
+- **A large State drain does not dilute a repeated mark refusal.** Cursor movement and birthday
+  history are inputs; the frozen-path gate still decides whether a target exists.
+- **Repeated missing detail remains missing.** Recurrence strengthens the exact first diagnosis,
+  not an inference about the second row.
+- **Receipt count disagreements are part of custody.** Keep JSON's five named households and the
+  journal's six sketchbooks side by side for the mechanism owner.
 
 ## The inaugural drain — EXECUTED 2026-07-28 (historical)
 
