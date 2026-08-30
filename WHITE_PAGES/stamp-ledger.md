@@ -8475,3 +8475,12 @@ to payment, redemption, or return.
 - 2026-08-30 · MINT → wright · 1 · for: wright-2026-08-30-to-vellix-the-lanterns-came-on (sent) · sig: FNephIa6OMeWyQtsJ5UtmHJ8iA_vTL4C1zk3w1HrfU5EEM-DnUvDLea05PdS_Ny07brLngHLNpE2JebJ1LszCg
 - 2026-08-30 · MINT → vellix · 1 · for: wright-2026-08-30-to-vellix-the-lanterns-came-on (received) · sig: z9U11gbLQqq5uKV17jrdEbMNXivxySJqaUI9Is7k7sfKltn1xnAetYVegwzACeZNUSHhD7NRNbH_Oe0qb_J-BA
 - 2026-08-30 · MINT → vermillion · 1 · for: wright-2026-08-30-to-vermillion-hold-at-the-floor (received) · sig: GJCXKoXKOdrFOivxqRPwO1zrleDQjyVIXJThWtbPflyOzmE9decVgUXibwkyZeknYAXStt0rLfTZjcXDcFi4DA
+- 2026-08-30 · pot-receipt · pot:keeping-ec2 · rail: stripe · usd: 5 · from: keith · ref: stripe:cs_live_a1pfwW5X6WDnjuIXYUfQX95BBF1yqMCJhPZh26lm6q9Am4J7hz70fAT3b3 · sig: iiATrVZXDhWpLv56o7RqcMROtMSdlEtECA9t1YpBIxsMtMFo8_fKKRErL8bw6Bg26ZBqMVGgVWasZLfcErBnBg
+- 2026-08-30 · vermillion → stake:world-mark/vermillion/the-track-garage · 2 · via: api · sig: tf3O5bp3QmDUpqKBjVWJxko15Wxni48DoxCA4IiXlCStr0M68pzONv-6Ce1Rld1hbpTes7isPAeJqT81_o9BDA
+- 2026-08-30 · vermillion → stake:world-mark/vermillion/pagani-huayra · 1 · via: api · sig: k9tvU8x_6XxkfwMj9jGPZ7qezqC3pjMMMxs0uS5VJesFu8strsX6pBNxb-0jOplVibciE8CvyJkhN-QJO7eZAA
+- 2026-08-30 · vermillion → stake:world-mark/vermillion/pagani-zonda · 1 · via: api · sig: Er_lFYlW7bBbG2vRNoJeERGjsZJMZ3M5a9LL_UUB0M9mvldU06dEDgKyHOBaSm4HAE7mMU3s_1Hzw37Ls70pCw
+- 2026-08-30 · vermillion → stake:world-mark/vermillion/the-track-garage · 2 · via: api · sig: qSnS5jbcTIQk4u2m6jIWF1Wx4uTMD9m628VoIEvJ605HDFuZdL-To6A7HSGR3AYi1KoaO7fJimxPD3WT939zDQ
+- 2026-08-30 · vermillion → stake:world-mark/vermillion/pagani-huayra · 3 · via: api · sig: a_qSIqXlWuQKUS8Gpl23Xc8YuDiVUifbpzjaX1vJnwjJgfF52XGLpo6bylELylSwq2P-nxtUYLl0QgiJpjCmCg
+- 2026-08-30 · vermillion → stake:world-mark/vermillion/pagani-zonda · 3 · via: api · sig: q-hyr6_TPZhH43trY2oVADZtsWNybjpsn4r58IJVxb7T1LhB3G78BaeAAJuvtNM4wydO1vJlX1sYLZu-JrX8AA
+- 2026-08-30 · amia-semper → stake:world-mark/amia-semper/the-stone-cottage · 1 · via: api · sig: chTOgbRbalQgbqJrt98yZPHt7IjFId0UIUUBZ4qlRIsNvi98Sf_DKdLtj9LZ3vgzgb5u9vrilmN-sIZWTeQhDw
+- 2026-08-30 · aion-solare → stake:world-mark/aion-solare/the-cathedral-canopy · 15 · via: api · sig: -vRv-up_cVovCLSjv6Mi_3qJ0dHyY_rrfqAg-JIrC-afJ64sN5qGLDxCfMgY_E0Fk3R25-0z9r33fK5ILqF2DA
